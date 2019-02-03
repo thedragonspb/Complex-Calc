@@ -1,0 +1,7 @@
+#Thu Dec 14 20:42:20 MSK 2017
+base.0=/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3522f0afd8cd07f2bf7d98becb2ef254758224e1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5cbfdbe3eb06e643d9362cc02eabff199893c149/classes.dex
+base.1=/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5cbfdbe3eb06e643d9362cc02eabff199893c149
+file.0=/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3522f0afd8cd07f2bf7d98becb2ef254758224e1/classes.dex

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="localeNames">
+        <item>العربية</item>
+        <item>Azərbaycanca</item>
+        <item>বাংলা</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Español</item>
+        <item>Le français</item>
+        <item>हिन्दी</item>
+        <item>Italiano</item>
+        <item>日本語</item>
+        <item>Português</item>
+        <item>Русский</item>
+        <item>Türkçe</item>
+        <item>汉语</item>
+    </string-array>
+
+    <string-array name="locales">
+        <item>ar</item>
+        <item>az</item>
+        <item>bn</item>
+        <item>de</item>
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>hi</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>pt</item>
+        <item>ru</item>
+        <item>tr</item>
+        <item>zh</item>
+    </string-array>
+
+
+    <string name="app_name">Kompleks Kalkulyator</string>
+
+    <string name="settings">Ayarlar</string>
+    <string name="language">Dil</string>
+    <string name="copy">Kopyala</string>
+    <string name="save">Yadda saxla</string>
+    <string name="rounding">Yuvarlaqlaşdırma</string>
+    <string name="rate_app">Qiymətləndirmənin tətbiqi</string>
+    <string name="emptyFields">Bütün sahələri doldurun!</string>
+    <string name="divisionByZero">Sıfır ilə bölmə!</string>
+    <string name="number_name">Number name</string>
+    <string name="add">Add</string>
+    <string name="saved">Saved</string>
+    <string name="copied">Copied</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="deleteNumber">Delete this number?</string>
+
+</resources>

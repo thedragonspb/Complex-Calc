@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/thedragonspb/.android/build-cache/f09153eeb316beda0f2606add6a0e7a9939b46ed/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

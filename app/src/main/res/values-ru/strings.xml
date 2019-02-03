@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Complex Calc</string>
+
+    <string name="settings">Настройки</string>
+    <string name="language">Язык</string>
+    <string name="copy">Копировать</string>
+    <string name="save">Сохранить</string>
+    <string name="rounding">Округление</string>
+    <string name="rate_app">Оценить приложение</string>
+    <string name="emptyFields">Пожалуйста, заполните все поля!</string>
+    <string name="divisionByZero">Деление на ноль!</string>
+    <string name="number_name">Название числа</string>
+    <string name="add">Добавить</string>
+    <string name="saved">Сохранено</string>
+    <string name="copied">Скопировано</string>
+    <string name="uploaded">Добавлено</string>
+    <string name="deleteNumber">Удалить это число?</string>
+
+
+</resources>

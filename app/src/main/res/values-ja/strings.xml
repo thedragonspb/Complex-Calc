@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">複雑な計算</string>
+
+    <string name="settings">設定</string>
+    <string name="language">言語</string>
+    <string name="copy">コピー</string>
+    <string name="save">セーブ</string>
+    <string name="rounding">丸め</string>
+    <string name="rate_app">アプリを評価</string>
+    <string name="emptyFields">すべてのフィールドに記入してください！</string>
+    <string name="divisionByZero">ゼロ除算！</string>
+    <string name="number_name">Number name</string>
+    <string name="add">Add</string>
+    <string name="saved">Saved</string>
+    <string name="copied">Copied</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="deleteNumber">Delete this number?</string>
+
+</resources>

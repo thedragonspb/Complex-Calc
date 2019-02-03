@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Komplexer Rechner</string>
+    <string name="settings">Einstellungen</string>
+    <string name="language">Sprache</string>
+    <string name="copy">Kopieren</string>
+    <string name="save">sparen</string>
+    <string name="rounding">Abgerundet</string>
+    <string name="rate_app">Bewertungs App</string>
+    <string name="emptyFields">Bitte füllen Sie alle Felder aus!</string>
+    <string name="divisionByZero">Durch Null teilen!</string>
+    <string name="number_name">Number name</string>
+    <string name="add">Add</string>
+    <string name="saved">Saved</string>
+    <string name="copied">Copied</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="deleteNumber">Delete this number?</string>
+
+
+</resources>

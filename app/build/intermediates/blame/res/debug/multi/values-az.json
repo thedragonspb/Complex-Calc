@@ -1,0 +1,334 @@
+[
+    {
+        "outputFile": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 17,
+                    "endColumn": 19,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 18,
+                        "endColumn": 19,
+                        "endOffset": 514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 518,
+                    "endLine": 33,
+                    "endColumn": 19,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endLine": 35,
+                        "endColumn": 19,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 35,
+                    "endOffset": 939
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 35,
+                        "endOffset": 1468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 944,
+                    "endColumn": 57,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 57,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1002,
+                    "endColumn": 41,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1513,
+                        "endColumn": 41,
+                        "endOffset": 1550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 40,
+                    "endOffset": 1080
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 40,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1085,
+                    "endColumn": 60,
+                    "endOffset": 1141
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 1601,
+                        "endColumn": 60,
+                        "endOffset": 1657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1146,
+                    "endColumn": 59,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1325,
+                        "endColumn": 59,
+                        "endOffset": 1380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endColumn": 64,
+                    "endOffset": 1266
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1260,
+                        "endColumn": 64,
+                        "endOffset": 1320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1271,
+                    "endColumn": 40,
+                    "endOffset": 1307
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1016,
+                        "endColumn": 40,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1312,
+                    "endColumn": 51,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1385,
+                        "endColumn": 51,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endColumn": 62,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1197,
+                        "endColumn": 62,
+                        "endOffset": 1255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endColumn": 53,
+                    "endOffset": 1476
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1143,
+                        "endColumn": 53,
+                        "endOffset": 1192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1481,
+                    "endColumn": 44,
+                    "endOffset": 1521
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 44,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1526,
+                    "endColumn": 39,
+                    "endOffset": 1561
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1473,
+                        "endColumn": 39,
+                        "endOffset": 1508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1566,
+                    "endColumn": 44,
+                    "endOffset": 1606
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 971,
+                        "endColumn": 44,
+                        "endOffset": 1011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1611,
+                    "endColumn": 45,
+                    "endOffset": 1652
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-az/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 45,
+                        "endOffset": 1596
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+#Thu Dec 14 20:45:19 MSK 2017
+base.0=/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

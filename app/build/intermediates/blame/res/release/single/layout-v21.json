@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/thedragonspb/.android/build-cache/a3b9ac4e6edd63aad71cee16ab5ee5051e059af0/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

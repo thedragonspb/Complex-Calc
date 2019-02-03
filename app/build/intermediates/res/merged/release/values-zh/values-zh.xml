@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">Add</string>
+    <string name="app_name">复杂的计算器</string>
+    <string name="copied">Copied</string>
+    <string name="copy">复制</string>
+    <string name="deleteNumber">Delete this number?</string>
+    <string name="divisionByZero">被零除！</string>
+    <string name="emptyFields">请填写所有领域！</string>
+    <string name="language">语言</string>
+    <string name="number_name">Number name</string>
+    <string name="rate_app">评价应用</string>
+    <string name="rounding">四舍五入</string>
+    <string name="save">保存</string>
+    <string name="saved">Saved</string>
+    <string name="settings">设置</string>
+    <string name="uploaded">Uploaded</string>
+</resources>

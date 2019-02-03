@@ -1,0 +1,292 @@
+[
+    {
+        "outputFile": "/home/thedragonspb/Android Projects/ComplexCalc3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 35,
+                    "endOffset": 86
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 35,
+                        "endOffset": 581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 91,
+                    "endColumn": 48,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 48,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 41,
+                    "endOffset": 177
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 41,
+                        "endOffset": 663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 182,
+                    "endColumn": 36,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 36,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 60,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 714,
+                        "endColumn": 60,
+                        "endOffset": 770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 62,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 62,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 343,
+                    "endColumn": 60,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 60,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 41,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 41,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 51,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 51,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 53,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 320,
+                        "endColumn": 53,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 45,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 45,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 45,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 45,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 39,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 39,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 43,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 43,
+                        "endOffset": 144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 45,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "/home/thedragonspb/Android Projects/ComplexCalc3/app/src/main/res/values-bn/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endColumn": 45,
+                        "endOffset": 709
+                    }
+                }
+            }
+        ]
+    }
+]

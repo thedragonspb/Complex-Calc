@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">জটিল ক্যালক</string>
+    <string name="settings">সেটিংস</string>
+    <string name="language">ভাষা</string>
+    <string name="copy">কপি</string>
+    <string name="save">সংরক্ষণ করুন</string>
+    <string name="rounding">রাউন্ডইং</string>
+    <string name="rate_app">হার অ্যাপ্লিকেশন</string>
+    <string name="emptyFields">সবগুলো ঘর পূরন করুন!</string>
+    <string name="divisionByZero">শূন্য দ্বারা বিভাগ!</string>
+    <string name="number_name">Number name</string>
+    <string name="add">Add</string>
+    <string name="saved">Saved</string>
+    <string name="copied">Copied</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="deleteNumber">Delete this number?</string>
+
+</resources>

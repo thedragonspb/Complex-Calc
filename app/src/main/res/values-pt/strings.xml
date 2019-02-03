@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Complex Calc</string>
+    <string name="settings">Configurações</string>
+    <string name="language">Língua</string>
+    <string name="copy">cópia de</string>
+    <string name="save">Salve</string>
+    <string name="rounding">Arredondamento</string>
+    <string name="rate_app">Avaliar aplicação</string>
+    <string name="emptyFields">Por favor preencha todos os campos!</string>
+    <string name="divisionByZero">Divisão por zero!</string>
+    <string name="number_name">Number name</string>
+    <string name="add">Add</string>
+    <string name="saved">Saved</string>
+    <string name="copied">Copied</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="deleteNumber">Delete this number?</string>
+
+</resources>

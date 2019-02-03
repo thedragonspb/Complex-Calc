@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="localeNames">
+        <item>العربية</item>
+        <item>Azərbaycanca</item>
+        <item>বাংলা</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Español</item>
+        <item>Le français</item>
+        <item>हिन्दी</item>
+        <item>Italiano</item>
+        <item>日本語</item>
+        <item>Português</item>
+        <item>Русский</item>
+        <item>Türkçe</item>
+        <item>汉语</item>
+    </string-array>
+
+    <string-array name="locales">
+        <item>ar</item>
+        <item>az</item>
+        <item>bn</item>
+        <item>de</item>
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>hi</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>pt</item>
+        <item>ru</item>
+        <item>tr</item>
+        <item>zh</item>
+    </string-array>
+
+
+    <string name="app_name">حاسبة معقدة</string>
+    <string name="settings">إعدادات</string>
+    <string name="language">لغة</string>
+    <string name="copy">نسخ</string>
+    <string name="save">حفظ</string>
+    <string name="rounding">التقريب</string>
+    <string name="rate_app">معدل التطبيق</string>
+    <string name="emptyFields">يرجى تعبئة جميع الحقول!</string>
+    <string name="divisionByZero">القسمة على صفر!</string>
+    <string name="number_name">Number name</string>
+    <string name="add">Add</string>
+    <string name="saved">Saved</string>
+    <string name="copied">Copied</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="deleteNumber">Delete this number?</string>
+
+</resources>
